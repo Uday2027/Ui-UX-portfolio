@@ -54,6 +54,20 @@ A personal portfolio site (Zubayer Hossain Uday) styled as a retro desktop OS �
 
 ---
 
+### FLY FLY — Travel Agency
+A dark-themed travel agency site ("FLY FLY") for curated global expeditions. Includes a cinematic hero with a rotating destination card, trust stats and promo copy, an about section, destination-highlight cards (e.g. "Five reasons to visit Asia"), a featured-spots grid, an exclusive-tours catalog with filtering and pricing, traveler review cards, and a newsletter + footer.
+
+| | | |
+|---|---|---|
+| ![Hero](screenshots/fly-fly/01-hero.png) | ![Stats & offer](screenshots/fly-fly/02-stats-offer.png) | ![About us](screenshots/fly-fly/03-about-us.png) |
+| Hero — "Journey to All World Courners" | Trust stats + limited-time offer | About Us section |
+| ![Why visit Asia](screenshots/fly-fly/04-why-visit-asia.png) | ![Featured spots](screenshots/fly-fly/05-featured-spots.png) | ![Exclusive tours](screenshots/fly-fly/06-exclusive-tours.png) |
+| Destination highlight cards | Top featured spots grid | Exclusive tours catalog with filters |
+| ![Reviews](screenshots/fly-fly/07-reviews.png) | ![Newsletter & footer](screenshots/fly-fly/08-newsletter-footer.png) | |
+| Traveler review cards | Newsletter signup + footer | |
+
+---
+
 <!-- Copy this block for each new project -->
 
 ### Project Name
