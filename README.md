@@ -68,6 +68,18 @@ A dark-themed travel agency site ("FLY FLY") for curated global expeditions. Inc
 
 ---
 
+### Linnet — Botanical Skincare E-commerce
+An e-commerce storefront for Linnet, a botanical skin/hair/wellness brand delivering handmade natural care products across Bangladesh. Covers a warm, editorial hero, shop-by-category tiles, a favorites/best-sellers product grid with pricing and add-to-bag, curated "care for every concern" collection banners, a newsletter + testimonial block, and a footer with shop links and contact/head-office details.
+
+| | | |
+|---|---|---|
+| ![Hero](screenshots/linnet/01-hero.png) | ![Shop by category](screenshots/linnet/02-shop-by-category.png) | ![Favorites](screenshots/linnet/03-favorites-products.png) |
+| Hero — "Better care. Beautiful rituals." | Shop by category tiles | Best-sellers product grid |
+| ![Care collections](screenshots/linnet/04-care-collections.png) | ![Newsletter & quote](screenshots/linnet/05-newsletter-quote.png) | ![Footer](screenshots/linnet/06-footer.png) |
+| "Care for every concern" collection banners | Newsletter signup + brand quote | Footer — shop, support, head office |
+
+---
+
 <!-- Copy this block for each new project -->
 
 ### Project Name
