@@ -18,6 +18,20 @@ A savings/coupon aggregator site ("Snip") surfacing verified discount codes and 
 
 ---
 
+### SUST CSE Carnival 2026
+Event site for SUST CSE Carnival 2026, a two-day inter-university tech festival at Shahjalal University of Science & Technology. Features a stats-driven hero, per-event detail cards (IUPC programming contest, Codex Community Hackathon), a past-carnivals history timeline, a registration call-to-action, sponsor/footer section, and a multi-step team registration form.
+
+| | | |
+|---|---|---|
+| ![Hero](screenshots/sust-cse-carnival/01-hero.png) | ![IUPC event](screenshots/sust-cse-carnival/02-event-iupc.png) | ![Hackathon event](screenshots/sust-cse-carnival/03-event-hackathon.png) |
+| Hero — event overview & stats | Event detail — IUPC | Event detail — Codex Community Hackathon |
+| ![Past carnivals](screenshots/sust-cse-carnival/04-past-carnivals.png) | ![CTA](screenshots/sust-cse-carnival/05-cta-register.png) | ![Footer & sponsors](screenshots/sust-cse-carnival/06-footer-sponsors.png) |
+| Past carnivals timeline | Registration call-to-action | Footer, sponsors & partners |
+| ![Registration form](screenshots/sust-cse-carnival/07-registration-form.png) | | |
+| Multi-step team registration form | | |
+
+---
+
 <!-- Copy this block for each new project -->
 
 ### Project Name
