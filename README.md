@@ -44,6 +44,16 @@ Contemporary high-fashion menswear storefront (ZFR) based in Bangladesh, selling
 
 ---
 
+### Retro Desktop Portfolio
+A personal portfolio site (Zubayer Hossain Uday) styled as a retro desktop OS — icon grid, draggable windowed apps, a working terminal shell, and even a playable Snake game, alongside about/projects/skills/experience/contact "files."
+
+| | | |
+|---|---|---|
+| ![Desktop & about window](screenshots/desktop-portfolio/01-desktop-about.png) | ![Terminal window](screenshots/desktop-portfolio/02-terminal-window.png) | ![Snake game window](screenshots/desktop-portfolio/03-snake-game.png) |
+| Desktop icon grid + about_me.txt window | terminal.sh — interactive shell | snake.game — playable mini-game |
+
+---
+
 <!-- Copy this block for each new project -->
 
 ### Project Name
