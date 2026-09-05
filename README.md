@@ -80,6 +80,34 @@ An e-commerce storefront for Linnet, a botanical skin/hair/wellness brand delive
 
 ---
 
+### Blend:it — Distributed Rendering & AI 3D Platform
+A web platform for distributed Blender rendering and AI-assisted 3D asset generation ("Blend:it"). Covers the marketing home page with live render stats, account registration and role selection (client vs. worker), login, the render workflow (upload .blend/.zip, set frame range, track progress, download completed output), a projects dashboard, a text-to-image → image-to-3D generation tool, and a real-time community hub with chat and posts.
+
+| | | |
+|---|---|---|
+| ![Home & stats](screenshots/blendit/01-home-stats.png) | ![Register](screenshots/blendit/02-register.png) | ![Choose role](screenshots/blendit/03-choose-role.png) |
+| Home — hero + render stats chart | Create account | Choose role — client or worker |
+| ![Login](screenshots/blendit/04-login.png) | ![Render upload](screenshots/blendit/05-render-upload.png) | ![File browser](screenshots/blendit/06-file-browser.png) |
+| Login | Render page — drag & drop upload | OS file picker for .blend/.zip |
+| ![Render configured](screenshots/blendit/07-render-configured.png) | ![Processing](screenshots/blendit/08-render-processing.png) | ![Rendering in progress](screenshots/blendit/09-render-in-progress.png) |
+| Frame range set, ready to render | Upload/processing state | Render progress card |
+| ![Projects dashboard](screenshots/blendit/10-projects-dashboard.png) | ![Generate 3D prompt](screenshots/blendit/11-generate3d-prompt.png) | ![Generate 3D result](screenshots/blendit/12-generate3d-result.png) |
+| Completed renders, download file | Text-to-image prompt input | Generated image with "Use for 3D" |
+| ![Community hub](screenshots/blendit/13-community-hub.png) | | |
+| Community hub — live chat + posts | | |
+
+---
+
+### Relay — Client Onboarding Operating System
+An internal operations dashboard ("Relay") that automates client onboarding from closed-won deal to kickoff. Shows the input/process/output flow, a live orchestration pipeline across Slack, HubSpot, Stripe, DocuSign, ClickUp, Drive, Gmail and Calendly, and a per-client onboarding detail panel tracking automation progress, requirements approvals, and provisioned resources.
+
+| | |
+|---|---|
+| ![Overview](screenshots/relay/01-overview.png) | ![Automation detail](screenshots/relay/02-automation-detail.png) |
+| Overview — onboarding pipeline & client list | Client detail — automation journey, requirements, provisioned resources |
+
+---
+
 <!-- Copy this block for each new project -->
 
 ### Project Name
