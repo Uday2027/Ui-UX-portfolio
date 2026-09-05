@@ -4,24 +4,6 @@ A collection of UI/UX project screenshots with short descriptions.
 
 ## Projects
 
-### Blend:it — Distributed Rendering & AI 3D Platform
-A web platform for distributed Blender rendering and AI-assisted 3D asset generation ("Blend:it"). Covers the marketing home page with live render stats, account registration and role selection (client vs. worker), login, the render workflow (upload .blend/.zip, set frame range, track progress, download completed output), a projects dashboard, a text-to-image → image-to-3D generation tool, and a real-time community hub with chat and posts.
-
-| | | |
-|---|---|---|
-| ![Home & stats](screenshots/blendit/01-home-stats.png) | ![Register](screenshots/blendit/02-register.png) | ![Choose role](screenshots/blendit/03-choose-role.png) |
-| Home — hero + render stats chart | Create account | Choose role — client or worker |
-| ![Login](screenshots/blendit/04-login.png) | ![Render upload](screenshots/blendit/05-render-upload.png) | ![File browser](screenshots/blendit/06-file-browser.png) |
-| Login | Render page — drag & drop upload | OS file picker for .blend/.zip |
-| ![Render configured](screenshots/blendit/07-render-configured.png) | ![Processing](screenshots/blendit/08-render-processing.png) | ![Rendering in progress](screenshots/blendit/09-render-in-progress.png) |
-| Frame range set, ready to render | Upload/processing state | Render progress card |
-| ![Projects dashboard](screenshots/blendit/10-projects-dashboard.png) | ![Generate 3D prompt](screenshots/blendit/11-generate3d-prompt.png) | ![Generate 3D result](screenshots/blendit/12-generate3d-result.png) |
-| Completed renders, download file | Text-to-image prompt input | Generated image with "Use for 3D" |
-| ![Community hub](screenshots/blendit/13-community-hub.png) | | |
-| Community hub — live chat + posts | | |
-
----
-
 ### SUST CSE Carnival 2026
 Event site for SUST CSE Carnival 2026, a two-day inter-university tech festival at Shahjalal University of Science & Technology. Features a stats-driven hero, per-event detail cards (IUPC programming contest, Codex Community Hackathon), a past-carnivals history timeline, a registration call-to-action, sponsor/footer section, and a multi-step team registration form.
 
@@ -105,4 +87,22 @@ An internal operations dashboard ("Relay") that automates client onboarding from
 |---|---|
 | ![Overview](screenshots/relay/01-overview.png) | ![Automation detail](screenshots/relay/02-automation-detail.png) |
 | Overview — onboarding pipeline & client list | Client detail — automation journey, requirements, provisioned resources |
+
+---
+
+### Blend:it — Distributed Rendering & AI 3D Platform
+A web platform for distributed Blender rendering and AI-assisted 3D asset generation ("Blend:it"). Covers the marketing home page with live render stats, account registration and role selection (client vs. worker), login, the render workflow (upload .blend/.zip, set frame range, track progress, download completed output), a projects dashboard, a text-to-image → image-to-3D generation tool, and a real-time community hub with chat and posts.
+
+| | | |
+|---|---|---|
+| ![Home & stats](screenshots/blendit/01-home-stats.png) | ![Register](screenshots/blendit/02-register.png) | ![Choose role](screenshots/blendit/03-choose-role.png) |
+| Home — hero + render stats chart | Create account | Choose role — client or worker |
+| ![Login](screenshots/blendit/04-login.png) | ![Render upload](screenshots/blendit/05-render-upload.png) | ![File browser](screenshots/blendit/06-file-browser.png) |
+| Login | Render page — drag & drop upload | OS file picker for .blend/.zip |
+| ![Render configured](screenshots/blendit/07-render-configured.png) | ![Processing](screenshots/blendit/08-render-processing.png) | ![Rendering in progress](screenshots/blendit/09-render-in-progress.png) |
+| Frame range set, ready to render | Upload/processing state | Render progress card |
+| ![Projects dashboard](screenshots/blendit/10-projects-dashboard.png) | ![Generate 3D prompt](screenshots/blendit/11-generate3d-prompt.png) | ![Generate 3D result](screenshots/blendit/12-generate3d-result.png) |
+| Completed renders, download file | Text-to-image prompt input | Generated image with "Use for 3D" |
+| ![Community hub](screenshots/blendit/13-community-hub.png) | | |
+| Community hub — live chat + posts | | |
 
