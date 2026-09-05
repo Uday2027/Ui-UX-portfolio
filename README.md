@@ -32,6 +32,18 @@ Event site for SUST CSE Carnival 2026, a two-day inter-university tech festival 
 
 ---
 
+### ZFR — Menswear E-commerce
+Contemporary high-fashion menswear storefront (ZFR) based in Bangladesh, selling panjabi/kurta, shirts, pants, and accessories. Covers a split hero banner, product listing grid with pricing/ratings, a trending-categories carousel, a community/social (#INZFR) section with footer, and a product detail page with variant selection and buy actions.
+
+| | | |
+|---|---|---|
+| ![Hero](screenshots/zfr/01-hero.png) | ![Product grid](screenshots/zfr/02-product-grid.png) | ![Trending categories](screenshots/zfr/03-trending-categories.png) |
+| Hero — split banner, "Shundor Punjabi" | Product listing grid | Trending categories carousel |
+| ![Social & footer](screenshots/zfr/04-social-footer.png) | ![Product detail](screenshots/zfr/05-product-detail.png) | |
+| #INZFR community section & footer | Product detail — variant select, buy/cart | |
+
+---
+
 <!-- Copy this block for each new project -->
 
 ### Project Name
