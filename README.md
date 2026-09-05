@@ -44,16 +44,6 @@ Contemporary high-fashion menswear storefront (ZFR) based in Bangladesh, selling
 
 ---
 
-### Retro Desktop Portfolio
-A personal portfolio site (Zubayer Hossain Uday) styled as a retro desktop OS — icon grid, draggable windowed apps, a working terminal shell, and even a playable Snake game, alongside about/projects/skills/experience/contact "files."
-
-| | | |
-|---|---|---|
-| ![Desktop & about window](screenshots/desktop-portfolio/01-desktop-about.png) | ![Terminal window](screenshots/desktop-portfolio/02-terminal-window.png) | ![Snake game window](screenshots/desktop-portfolio/03-snake-game.png) |
-| Desktop icon grid + about_me.txt window | terminal.sh — interactive shell | snake.game — playable mini-game |
-
----
-
 ### FLY FLY — Travel Agency
 A dark-themed travel agency site ("FLY FLY") for curated global expeditions. Includes a cinematic hero with a rotating destination card, trust stats and promo copy, an about section, destination-highlight cards (e.g. "Five reasons to visit Asia"), a featured-spots grid, an exclusive-tours catalog with filtering and pricing, traveler review cards, and a newsletter + footer.
 
@@ -87,6 +77,16 @@ An internal operations dashboard ("Relay") that automates client onboarding from
 |---|---|
 | ![Overview](screenshots/relay/01-overview.png) | ![Automation detail](screenshots/relay/02-automation-detail.png) |
 | Overview — onboarding pipeline & client list | Client detail — automation journey, requirements, provisioned resources |
+
+---
+
+### Retro Desktop Portfolio
+A personal portfolio site (Zubayer Hossain Uday) styled as a retro desktop OS — icon grid, draggable windowed apps, a working terminal shell, and even a playable Snake game, alongside about/projects/skills/experience/contact "files."
+
+| | | |
+|---|---|---|
+| ![Desktop & about window](screenshots/desktop-portfolio/01-desktop-about.png) | ![Terminal window](screenshots/desktop-portfolio/02-terminal-window.png) | ![Snake game window](screenshots/desktop-portfolio/03-snake-game.png) |
+| Desktop icon grid + about_me.txt window | terminal.sh — interactive shell | snake.game — playable mini-game |
 
 ---
 
