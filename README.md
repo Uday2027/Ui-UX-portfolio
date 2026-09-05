@@ -4,17 +4,21 @@ A collection of UI/UX project screenshots with short descriptions.
 
 ## Projects
 
-### Snip — Coupon & Deals Platform
-A savings/coupon aggregator site ("Snip") surfacing verified discount codes and deals across popular retailers. Includes a hero landing section, popular stores grid, trending coupons feed, seasonal deal highlights, trust stats (active offers, success rate, avg savings), shop-by-category tiles, a full A–Z store directory, a savings-tips blog ("The Journal"), and site footer.
+### Blend:it — Distributed Rendering & AI 3D Platform
+A web platform for distributed Blender rendering and AI-assisted 3D asset generation ("Blend:it"). Covers the marketing home page with live render stats, account registration and role selection (client vs. worker), login, the render workflow (upload .blend/.zip, set frame range, track progress, download completed output), a projects dashboard, a text-to-image → image-to-3D generation tool, and a real-time community hub with chat and posts.
 
 | | | |
 |---|---|---|
-| ![Hero](screenshots/snip/01-hero.png) | ![Popular stores & trending](screenshots/snip/02-popular-stores-trending.png) | ![Deals grid & seasonal](screenshots/snip/03-deals-grid-seasonal.png) |
-| Hero — "Go further. Spend lighter." | Popular stores + trending coupons | Deals grid + seasonal edit |
-| ![Stats & mood](screenshots/snip/04-seasonal-stats.png) | ![Categories](screenshots/snip/05-mood-categories.png) | ![Store directory](screenshots/snip/06-store-directory.png) |
-| Seasonal deals + trust stats | Shop by mood / category tiles | A–Z store directory |
-| ![Journal](screenshots/snip/07-journal-blog.png) | ![Footer](screenshots/snip/08-footer.png) | ![Store detail](screenshots/snip/09-store-detail-nike.png) |
-| Savings journal / blog | Footer & site links | Store detail page (Nike promo codes, ratings, store stats) |
+| ![Home & stats](screenshots/blendit/01-home-stats.png) | ![Register](screenshots/blendit/02-register.png) | ![Choose role](screenshots/blendit/03-choose-role.png) |
+| Home — hero + render stats chart | Create account | Choose role — client or worker |
+| ![Login](screenshots/blendit/04-login.png) | ![Render upload](screenshots/blendit/05-render-upload.png) | ![File browser](screenshots/blendit/06-file-browser.png) |
+| Login | Render page — drag & drop upload | OS file picker for .blend/.zip |
+| ![Render configured](screenshots/blendit/07-render-configured.png) | ![Processing](screenshots/blendit/08-render-processing.png) | ![Rendering in progress](screenshots/blendit/09-render-in-progress.png) |
+| Frame range set, ready to render | Upload/processing state | Render progress card |
+| ![Projects dashboard](screenshots/blendit/10-projects-dashboard.png) | ![Generate 3D prompt](screenshots/blendit/11-generate3d-prompt.png) | ![Generate 3D result](screenshots/blendit/12-generate3d-result.png) |
+| Completed renders, download file | Text-to-image prompt input | Generated image with "Use for 3D" |
+| ![Community hub](screenshots/blendit/13-community-hub.png) | | |
+| Community hub — live chat + posts | | |
 
 ---
 
@@ -29,6 +33,20 @@ Event site for SUST CSE Carnival 2026, a two-day inter-university tech festival 
 | Past carnivals timeline | Registration call-to-action | Footer, sponsors & partners |
 | ![Registration form](screenshots/sust-cse-carnival/07-registration-form.png) | | |
 | Multi-step team registration form | | |
+
+---
+
+### Snip — Coupon & Deals Platform
+A savings/coupon aggregator site ("Snip") surfacing verified discount codes and deals across popular retailers. Includes a hero landing section, popular stores grid, trending coupons feed, seasonal deal highlights, trust stats (active offers, success rate, avg savings), shop-by-category tiles, a full A–Z store directory, a savings-tips blog ("The Journal"), and site footer.
+
+| | | |
+|---|---|---|
+| ![Hero](screenshots/snip/01-hero.png) | ![Popular stores & trending](screenshots/snip/02-popular-stores-trending.png) | ![Deals grid & seasonal](screenshots/snip/03-deals-grid-seasonal.png) |
+| Hero — "Go further. Spend lighter." | Popular stores + trending coupons | Deals grid + seasonal edit |
+| ![Stats & mood](screenshots/snip/04-seasonal-stats.png) | ![Categories](screenshots/snip/05-mood-categories.png) | ![Store directory](screenshots/snip/06-store-directory.png) |
+| Seasonal deals + trust stats | Shop by mood / category tiles | A–Z store directory |
+| ![Journal](screenshots/snip/07-journal-blog.png) | ![Footer](screenshots/snip/08-footer.png) | ![Store detail](screenshots/snip/09-store-detail-nike.png) |
+| Savings journal / blog | Footer & site links | Store detail page (Nike promo codes, ratings, store stats) |
 
 ---
 
@@ -77,24 +95,6 @@ An e-commerce storefront for Linnet, a botanical skin/hair/wellness brand delive
 | Hero — "Better care. Beautiful rituals." | Shop by category tiles | Best-sellers product grid |
 | ![Care collections](screenshots/linnet/04-care-collections.png) | ![Newsletter & quote](screenshots/linnet/05-newsletter-quote.png) | ![Footer](screenshots/linnet/06-footer.png) |
 | "Care for every concern" collection banners | Newsletter signup + brand quote | Footer — shop, support, head office |
-
----
-
-### Blend:it — Distributed Rendering & AI 3D Platform
-A web platform for distributed Blender rendering and AI-assisted 3D asset generation ("Blend:it"). Covers the marketing home page with live render stats, account registration and role selection (client vs. worker), login, the render workflow (upload .blend/.zip, set frame range, track progress, download completed output), a projects dashboard, a text-to-image → image-to-3D generation tool, and a real-time community hub with chat and posts.
-
-| | | |
-|---|---|---|
-| ![Home & stats](screenshots/blendit/01-home-stats.png) | ![Register](screenshots/blendit/02-register.png) | ![Choose role](screenshots/blendit/03-choose-role.png) |
-| Home — hero + render stats chart | Create account | Choose role — client or worker |
-| ![Login](screenshots/blendit/04-login.png) | ![Render upload](screenshots/blendit/05-render-upload.png) | ![File browser](screenshots/blendit/06-file-browser.png) |
-| Login | Render page — drag & drop upload | OS file picker for .blend/.zip |
-| ![Render configured](screenshots/blendit/07-render-configured.png) | ![Processing](screenshots/blendit/08-render-processing.png) | ![Rendering in progress](screenshots/blendit/09-render-in-progress.png) |
-| Frame range set, ready to render | Upload/processing state | Render progress card |
-| ![Projects dashboard](screenshots/blendit/10-projects-dashboard.png) | ![Generate 3D prompt](screenshots/blendit/11-generate3d-prompt.png) | ![Generate 3D result](screenshots/blendit/12-generate3d-result.png) |
-| Completed renders, download file | Text-to-image prompt input | Generated image with "Use for 3D" |
-| ![Community hub](screenshots/blendit/13-community-hub.png) | | |
-| Community hub — live chat + posts | | |
 
 ---
 
